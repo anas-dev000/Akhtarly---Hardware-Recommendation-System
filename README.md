@@ -341,13 +341,3 @@ npm run format     # Format code with Prettier
 5. Submit a pull request
 
 ---
-
-## 📄 License
-
-ISC License - See LICENSE file for details
-
----
-
-## 📞 Support
-
-For support, please contact the development team or create an issue in the project repository.
